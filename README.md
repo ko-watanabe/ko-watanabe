@@ -1,5 +1,5 @@
 # CAREER
-| From    | To      | Role                     | Accompany                                                        | 
+| From    | To      | Role                     | Belongs to                                                       | 
 |:------- |:--------|:-------------------------|:-----------------------------------------------------------------|
 | 2021.03 | now     | coworker/PhD candidate   |[DFKI](https://www.dfki.de/web/) / [TUK](https://www.uni-kl.de/)  |
 | 2019.04 | 2021.02 | Software Engineer        |[DeNA](https://dena.com/jp/)                                      |
