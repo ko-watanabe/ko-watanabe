@@ -1,10 +1,10 @@
 # CAREER
-| From    | To      | Role                                      | Belongs to                                                       | 
-|:------- |:--------|:------------------------------------------|:-----------------------------------------------------------------|
-| 2021.03 | now     | Co-workering Researcher / PhD candidate   |[DFKI](https://www.dfki.de/web/) / [TUK](https://www.uni-kl.de/)  |
-| 2019.04 | 2021.02 | Software Engineer                         |[DeNA](https://dena.com/jp/)                                      |
-| 2017.04 | 2019.03 | Master Student (Grad.)                    |[NAIST](http://www.naist.jp/en/)                                  |
-| 2013.04 | 2017.03 | Bachelor Student (Grad.)                  |[TUAT](https://www.tuat.ac.jp/en/)                                |
+| From    | To      | Role                                    | Belongs to                                                       | 
+|:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|
+| 2021.03 | now     | Co-working Researcher / PhD candidate   |[DFKI](https://www.dfki.de/web/) / [TUK](https://www.uni-kl.de/)  |
+| 2019.04 | 2021.02 | Software Engineer                       |[DeNA](https://dena.com/jp/)                                      |
+| 2017.04 | 2019.03 | Master Student (Grad.)                  |[NAIST](http://www.naist.jp/en/)                                  |
+| 2013.04 | 2017.03 | Bachelor Student (Grad.)                |[TUAT](https://www.tuat.ac.jp/en/)                                |
 
 # LINK TO OTHER SNS
 - [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked94/)
