@@ -12,3 +12,4 @@
 - [Facebook](https://www.facebook.com/ko.watanabe.fb/)
 - [Instagram](https://www.instagram.com/ko_watanabe_ig)
 - [Twitter](https://twitter.com/ko_watanabe_jp)
+- [YouTube](https://www.youtube.com/channel/UCvMocqDRMWYlbgX8jRAUHzQ)
