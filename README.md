@@ -6,6 +6,9 @@
 | 2017.04 | 2019.03 | Master of Engineering Student (Grad.)   |[NAIST](http://www.naist.jp/en/)                                  |
 | 2013.04 | 2017.03 | Bachelor of Engineering Student (Grad.) |[TUAT](https://www.tuat.ac.jp/en/)                                |
 
+# Commit Status
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe)](https://git.io/streak-stats)
+
 # LINK TO OTHER SNS
 - [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked94/)
 - [WANTEDLY](https://www.wantedly.com/users/35987353)
@@ -16,4 +19,3 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-watanabe)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ko-watanabe)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe)](https://git.io/streak-stats)
