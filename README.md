@@ -14,5 +14,5 @@
 - [Twitter](https://twitter.com/ko_watanabe_jp)
 - [YouTube](https://www.youtube.com/channel/UCvMocqDRMWYlbgX8jRAUHzQ)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-watanabe)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ko-watanabe)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-watanabe)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ko-watanabe)](https://github.com/ryo-ma/github-profile-trophy) -->
