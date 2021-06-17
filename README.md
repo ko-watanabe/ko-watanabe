@@ -6,7 +6,7 @@
 | 2017.04 | 2019.03 | Master of Engineering Student (Grad.)   |[NAIST](http://www.naist.jp/en/)                                  |
 | 2013.04 | 2017.03 | Bachelor of Engineering Student (Grad.) |[TUAT](https://www.tuat.ac.jp/en/)                                |
 
-# Commit Status
+# COMMIT STATUS
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe)](https://git.io/streak-stats)
 
 # LINK TO OTHER SNS
