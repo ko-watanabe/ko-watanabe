@@ -7,7 +7,7 @@
 | 2013.04 | 2017.03 | Bachelor of Engineering Student (Grad.) |[TUAT](https://www.tuat.ac.jp/en/)                                |
 
 # COMMIT STATUS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
 
 # LINK TO OTHER SNS
 - [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked94/)
