@@ -1,10 +1,13 @@
 # CAREER
 | From    | To      | Role                                    | Belongs to                                                       | 
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|
-| 2021.03 | now     | Co-working Researcher / PhD candidate   |[DFKI](https://www.dfki.de/web/) / [TUK](https://www.uni-kl.de/)  |
+| 2021.03 | now     | Co-working Researcher / PhD candidate   |[DFKI](https://www.dfki.de/web/) / [RPTU](https://rptu.de/)  |
 | 2019.04 | 2021.02 | Software Engineer                       |[DeNA](https://dena.com/jp/)                                      |
 | 2017.04 | 2019.03 | Master of Engineering Student (Grad.)   |[NAIST](http://www.naist.jp/en/)                                  |
 | 2013.04 | 2017.03 | Bachelor of Engineering Student (Grad.) |[TUAT](https://www.tuat.ac.jp/en/)                                |
+
+# My Website
+- https://ko-watanabe.github.io/
 
 # COMMIT STATUS
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
