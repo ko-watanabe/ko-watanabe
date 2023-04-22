@@ -9,9 +9,6 @@
 # My Website
 - https://ko-watanabe.github.io/
 
-# COMMIT STATUS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
-
 # LINK TO OTHER SNS
 - [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked-in)
 - [WANTEDLY](https://www.wantedly.com/users/35987353)
@@ -19,3 +16,6 @@
 - [Instagram](https://www.instagram.com/ko_watanabe_ig)
 - [Twitter](https://twitter.com/ko_watanabe_jp)
 - [YouTube](https://www.youtube.com/channel/UCvMocqDRMWYlbgX8jRAUHzQ)
+
+# COMMIT STATUS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
