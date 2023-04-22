@@ -8,13 +8,13 @@
 
 # Stack
 ## Language/Framework
-[![My Languages](https://skillicons.dev/icons?i=py,pytorch,tensorflow,ruby,flutter,swift,kotlin,js,ts,vue,react,go)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,pytorch,tensorflow,ruby,flutter,swift,kotlin,html,js,ts,vue,electron,react,go)](https://skillicons.dev)
 
 ## Cloud/Database
 [![My Clouds](https://skillicons.dev/icons?i=aws,gcp,redis,firebase)](https://skillicons.dev)
 
 ## Other
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,sentry,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,sentry,vercel,jenkins,postman,figma,raspberrypi,latex)](https://skillicons.dev)
 
 # My Website
 - https://ko-watanabe.github.io/
