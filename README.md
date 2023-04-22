@@ -6,8 +6,21 @@
 | 2017.04 | 2019.03 | Master of Engineering Student (Grad.)   |[NAIST](http://www.naist.jp/en/)                                  |
 | 2013.04 | 2017.03 | Bachelor of Engineering Student (Grad.) |[TUAT](https://www.tuat.ac.jp/en/)                                |
 
+# Stack
+## Language/Framework
+[![My Languages](https://skillicons.dev/icons?i=py,pytorch,tensorflow,ruby,flutter,swift,kotlin,js,ts,vue,react,go)](https://skillicons.dev)
+
+## Cloud/Database
+[![My Clouds](https://skillicons.dev/icons?i=aws,gcp,redis,firebase)](https://skillicons.dev)
+
+## Other
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,sentry,postman)](https://skillicons.dev)
+
 # My Website
 - https://ko-watanabe.github.io/
+
+# COMMIT STATUS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
 
 # LINK TO OTHER SNS
 - [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked-in)
@@ -16,6 +29,3 @@
 - [Instagram](https://www.instagram.com/ko_watanabe_ig)
 - [Twitter](https://twitter.com/ko_watanabe_jp)
 - [YouTube](https://www.youtube.com/channel/UCvMocqDRMWYlbgX8jRAUHzQ)
-
-# COMMIT STATUS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
