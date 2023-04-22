@@ -21,7 +21,7 @@
 
 # COMMIT STATUS
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-watanabe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
