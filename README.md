@@ -20,10 +20,6 @@
 - https://ko-watanabe.github.io/
 
 # COMMIT STATUS
-## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-watanabe)](https://github.com/anuraghazra/github-readme-stats)
-
-## Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
 
 # LINK TO OTHER SNS
