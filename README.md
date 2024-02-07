@@ -23,7 +23,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ko-watanabe&theme=highcontrast)](https://git.io/streak-stats)
 
 # LINK TO OTHER SNS
-- [LinkedIn](https://www.linkedin.com/in/ko-watanabe-linked-in)
+- [LinkedIn](www.linkedin.com/in/ko-watanabe)
 - [WANTEDLY](https://www.wantedly.com/users/35987353)
 - [Facebook](https://www.facebook.com/ko.watanabe.fb/)
 - [Instagram](https://www.instagram.com/ko_watanabe_ig)
