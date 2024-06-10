@@ -1,7 +1,7 @@
 # CAREER
 | From    | To      | Role                                    | Belongs to                                                       | 
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|
-| 2021.07 | Current | Mission AI project researcher           |[DFKI](https://www.dfki.de/web/)                                  |
+| 2024.07 | Current | Mission AI project researcher           |[DFKI](https://www.dfki.de/web/)                                  |
 | 2021.03 | 2024.06 | Co-working Researcher / PhD candidate   |[DFKI](https://www.dfki.de/web/) / [RPTU](https://rptu.de/)       |
 | 2019.04 | 2021.02 | Software Engineer                       |[DeNA](https://dena.com/jp/)                                      |
 | 2017.04 | 2019.03 | Master of Engineering Student (Grad.)   |[NAIST](http://www.naist.jp/en/)                                  |
